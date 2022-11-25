@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshin-Vayalil
 - 👀 I’m interested in learning and exploring the vast sea of technology
-- 🌱 I’m currently learning python with the aim of working in the data science feild
+- 🌱 I’m currently learning python with the aim of working in the data science field
 - 📫 How to reach me ... joshinjojo2001@gmail.com || https://www.linkedin.com/in/joshin-vayalil
 
 <!---
